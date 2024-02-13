@@ -8,4 +8,3 @@
    
 5. Streamlit Web App: The project is implemented using the Streamlit framework, offering a user-friendly interface for accessing and interpreting sentiment scores derived from executive opinions.
    
-   Code link : https://github.com/Bharu1/Succinct/blob/main/stock.py
